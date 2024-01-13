@@ -1,4 +1,4 @@
-This is a firmware wich will turn ESP32 to a proxy remote control of a Roku TV in a Chrome browser tab on your PC (or MAC). Don't forget to replace port name in the upload script.
+This is a firmware wich will turn ESP32 to a proxy remote control of a Roku TV in a Chrome browser tab on your PC (or MAC). Don't forget to replace port name in the upload script. In case of MAC you might need to give a permission to the script using this command: `sudo chmod 755 upload_macOS.sh`
 
 
 This is more advance version of https://github.com/elshnkhll/RokuRC/tree/main/ESP_RokuRC_Proxy with faster TV (multiple Roku TV Sets) detection (in only 8 seconts). 
